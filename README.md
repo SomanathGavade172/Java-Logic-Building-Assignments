@@ -35,4 +35,23 @@ Whether you're a **student, beginner, or coding enthusiast**, this repository he
 
 ---
 
-# 📂 Repository Structure
+# 🎯 Goal
+
+To **develop strong programming logic**, strengthen **Java fundamentals**, and prepare learners for **real coding challenges, exams, and technical interviews**.
+
+---
+
+# 👨‍💻 Perfect For
+
+🎓 Students learning Java  
+🧑‍💻 Beginners building programming logic  
+📝 Exam & practical preparation  
+💼 Placement & coding interview practice  
+
+---
+
+# 🌟 Motto
+
+✨ **Learn • Practice • Build Logic • Master Java** ✨ 🚀
+
+---
